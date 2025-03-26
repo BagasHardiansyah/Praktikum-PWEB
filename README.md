@@ -1,4 +1,7 @@
-# Praktikum-PWEB D
+# Tugas PWEB D
 
-Nama : Bagas Hardiansyah Putra 
-Nim : 232410103006
+<br>
+|NAMA|NIM|
+| --- | --- |
+|Bagas Hardiansyah Putra|232410103006|
+
